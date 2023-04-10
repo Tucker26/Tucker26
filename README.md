@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on: a mobile application to navigate users through MNSU campus buildings
